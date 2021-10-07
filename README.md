@@ -1,6 +1,13 @@
 # generic_image_classifier
 An easy and clean repository to perform image classification tasks.
 
+# Models Covered
+So far four models are available to train namely:
+1) VGG
+2) ResNet
+3) DenseNet
+4) EfficientNet
+
 # Usage
 1) Place the dataset in the folder and set the **path_dataset** variable to that folder. Do the same with **path_validation**.
 2) Set **validation** steps to according to your dataset size.
