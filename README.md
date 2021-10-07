@@ -16,4 +16,4 @@ So far four models are available to train namely:
 5) Select the model you want to train via **model_num**.
 6) You can also turn on the augmentor in the *datagen.py* file.
 7) run *train.py*
-8) Ather the model is trained run *inference.py* file to get all the plots and results.
+8) After the model is trained run *inference.py* file to get all the plots and results.
